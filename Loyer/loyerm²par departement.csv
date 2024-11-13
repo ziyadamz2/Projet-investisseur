@@ -1,4 +1,4 @@
-,année_etude,DEP,LIBGEO,Loyer/m²,Loyer_min/m²,Loyer_max/m²
+id,année_etude,DEP,LIBGEO,Loyer/m²,Loyer_min/m²,Loyer_max/m²
 0,2018,Oise,nice,16.18400846,10.5695291365,25.14669703
 1,2018,Bouches-du-Rhône,marseille 1er arrondissement,12.760507215,9.484347563,17.175911964999997
 2,2018,Bouches-du-Rhône,marseille 2e arrondissement,13.23278454,9.8104428525,17.8547259
